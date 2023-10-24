@@ -1,3 +1,3 @@
-This is the live demo : 
+This is the live demo for the lab 5 : 
 
-[Lab5-javascript_part2](https://komailk.github.io/Lab5-javascript_part2/)
+[Live demo](https://komailk.github.io/Lab5-javascript_part2/)
